@@ -1,0 +1,17 @@
+.recipe-container {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 0 25px;
+}
+
+.header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#recipe-img {
+    display: block;
+    margin: 0 auto;
+}
